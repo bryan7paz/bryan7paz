@@ -1,16 +1,142 @@
-## Hi there 👋
+## Bryan Brum Paz
 
-<!--
-**bryan7paz/bryan7paz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-end | Estudante de Engenharia de Software`**
 
-Here are some ideas to get you started:
+Me chamo Bryan Brum Paz, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente, curso Engenharia de Software na UV. Sou apaixonado por tecnologia e compartilho minha jornada de estudos e projetos pelo Instagram: [@pazbrumdm](https://www.instagram.com/pazbrumdm/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou construindo minha base como desenvolvedor back-end, trabalhando com Java, Python, Flask, PostgreSQL e APIs. No GitHub você encontra meus projetos práticos: sistemas de gestão, APIs REST e ferramentas de análise de repositórios.
+
+<p align="left">
+  <a href="https://www.instagram.com/pazbrumdm/">
+    <img 
+      alt="Instagram" 
+      title="Me siga no Instagram" 
+      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/bryan-paz-92812b428/">
+    <img 
+      alt="LinkedIn" 
+      title="Meu LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/bryan7paz?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/bryan7paz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/bryan7paz?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/bryan7paz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</p>
+---
+
+### 🛠️ Linguagens e Tecnologias
+
+<img 
+  align="left" 
+  alt="Java" 
+  title="Java" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Python" 
+  title="Python" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Flask" 
+  title="Flask" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="PostgreSQL" 
+  title="PostgreSQL" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="HTML" 
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="CSS" 
+  title="CSS" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="JavaScript" 
+  title="JavaScript" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Git" 
+  title="Git" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="GitHub" 
+  title="GitHub" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=bryan7paz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan7paz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
+
+---
+
+### 📌 Meus repositórios em destaque
+
+- [repoanalytics](https://github.com/bryan7paz/repoanalytics) — Plataforma de mineração de repositórios de software (Python, Flask, PostgreSQL, GitHub API)
