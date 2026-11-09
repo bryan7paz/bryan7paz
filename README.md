@@ -27,9 +27,7 @@ Estou construindo minha base como desenvolvedor back-end, trabalhando com Java, 
       title="Total de estrelas GitHub" 
       src="https://custom-icon-badges.demolab.com/github/stars/bryan7paz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
-  </a>
-    />
-  </a>
+
 </p>
 ---
 
