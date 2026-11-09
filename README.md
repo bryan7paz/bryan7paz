@@ -112,31 +112,17 @@ Estou construindo minha base como desenvolvedor back-end, trabalhando com Java, 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img 
+/>
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="180" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bryan7paz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
 
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan7paz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
+<br/>
+<br/>
 
----
 
-### 📌 Meus repositórios em destaque
-
-- [repoanalytics](https://github.com/bryan7paz/repoanalytics) — Plataforma de mineração de repositórios de software (Python, Flask, PostgreSQL, GitHub API)
