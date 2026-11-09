@@ -26,7 +26,7 @@ Estou construindo minha base como desenvolvedor back-end, trabalhando com Java, 
 </p>
 
 
-### 🛠️ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
   align="left" 
@@ -107,7 +107,6 @@ Estou construindo minha base como desenvolvedor back-end, trabalhando com Java, 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
 />
 <img 
     align="left" 
