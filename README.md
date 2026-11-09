@@ -21,15 +21,10 @@ Estou construindo minha base como desenvolvedor back-end, trabalhando com Java, 
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="https://github.com/bryan7paz?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/bryan7paz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
+
 
 </p>
----
+
 
 ### 🛠️ Linguagens e Tecnologias
 
