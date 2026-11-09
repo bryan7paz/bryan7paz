@@ -28,11 +28,6 @@ Estou construindo minha base como desenvolvedor back-end, trabalhando com Java, 
       src="https://custom-icon-badges.demolab.com/github/stars/bryan7paz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
     />
   </a>
-  <a href="https://github.com/bryan7paz?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/bryan7paz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
   </a>
 </p>
@@ -119,6 +114,23 @@ Estou construindo minha base como desenvolvedor back-end, trabalhando com Java, 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <br/>
